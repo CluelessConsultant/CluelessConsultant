@@ -60,4 +60,4 @@ Shreyas, A.M. & Shtaltovna, Y. (2026). *Emotional Intelligence as Enacted Employ
 
 ## Looking for
 
-Junior roles in Germany in AI adoption, digital transformation and digital project work (PMO, project coordination). The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/antonyshreyasm).
+Roles in Germany in AI adoption, digital transformation and digital project work (PMO, project coordination). The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/antonyshreyasm).
