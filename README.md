@@ -37,13 +37,26 @@ Shreyas, A.M. & Shtaltovna, Y. (2026). *Emotional Intelligence as Enacted Employ
 - **CCVOSSEL, Berlin** (2024 to 2025): application operations for 26 IT applications, run to BMW security standards.
 - **Accenture, Bangalore** (2021 to 2023): coordinated incidents and changes in ServiceNow for 10+ client accounts and trained 3 new analysts.
 
+## What I do
+
+- AI adoption
+- Market and value analysis
+- Workflow automation
+- Knowledge management and documentation
+- Requirements analysis
+- Workshop and format design
+- Dashboards and reporting
+- Onboarding and knowledge transfer
+
 ## Tools I work with
 
 ![Claude](https://img.shields.io/badge/Claude-333333?style=for-the-badge&logo=anthropic&logoColor=white) ![Python](https://img.shields.io/badge/Python_(AI--assisted)-333333?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-333333?style=for-the-badge&logo=streamlit&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-333333?style=for-the-badge&logo=n8n&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-333333?style=for-the-badge&logo=jira&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-333333?style=for-the-badge&logo=powerautomate&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-333333?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-333333?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-333333?style=for-the-badge&logo=microsoftsharepoint&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-333333?style=for-the-badge&logo=servicenow&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-333333?style=for-the-badge&logo=miro&logoColor=white) ![MURAL](https://img.shields.io/badge/MURAL-333333?style=for-the-badge)
 
 ## Languages
 
-English: fluent. German: advanced, and I practise daily with my own app.
+- English: fluent
+- German: advanced, and I practise daily with my own app
+- Kannada
 
 ## Looking for
 
